@@ -9,3 +9,5 @@ Simple Interest = (P × R × T) / 100
 - HTML
 - CSS
 - JavaScript
+
+Minor typo fix
