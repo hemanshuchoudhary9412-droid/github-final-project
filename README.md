@@ -11,3 +11,4 @@ Simple Interest = (P × R × T) / 100
 - JavaScript
 
 Minor typo fix
+# minor typo fix
